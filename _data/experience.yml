@@ -28,14 +28,14 @@
 - company: Zum Internet
   position: Data Platform Developer
   duration: Dec, 2013 &mdash; Aug, 2015
-  summary:
-  > My job was a data collector and make them clean and meaningful for search engine in portal web service named ZUM.
-    <ul class="resume-item-list">
-      <li>Maintained over 300 XML based parsers for News, Blog search components</li>
-      <li>Monitored and Maintained crawler servers for stable web data collection to use them for portal service search components</li>
-      <li>Created web service to facilitate custom web page parser generation and management (it had shortened parser production time to 1/5 average)</li>
-      <li>Produced approximately 400 news and blog parsers for search engine</li><li>Developed crawler for blog search component</li>
-    </ul>
+  summary: |+ My job was a data collector and make them clean and meaningful for search engine in portal web service named ZUM.
+             <ul class="resume-item-list">
+               <li>Maintained over 300 XML based parsers for News, Blog search components</li>
+               <li>Monitored and Maintained crawler servers for stable web data collection to use them for portal service search components</li>
+               <li>Created web service to facilitate custom web page parser generation and management (it had shortened parser production time to 1/5 average)</li>
+               <li>Produced approximately 400 news and blog parsers for search engine</li><li>Developed crawler for blog search component</li>
+             </ul>
+
 
 
 # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
