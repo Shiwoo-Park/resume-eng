@@ -11,18 +11,21 @@
   position: Full-stack Web Developer
   duration:  Mar, 2016 &mdash; May, 2016
   summary: |
-            - Developed responsive web-service for income tax return
-            - Developed and Designed admin site for company workers
-            - Organized service infrastructure including release management
+            <ul>
+              <li>• Developed responsive web-service for income tax return</li>
+              <li>• Developed and Designed admin site for company workers</li>
+              <li>• Organized service infrastructure including release management</li>
+            </ul>
 
 # Line Plus
 - company: Line Plus Corp
   position: Software Engineer
   duration:  Sep, 2015 &mdash; Jan, 2016
   summary: |
+            Web server developer of LINE friends online store
             <ul>
               <li>Enabled payment on Line Friends Online Store from PC and Mobile web browsers using INICIS payment gateway API</li>
-              <li>Designed and implemented RESTful API for Line Friends Online Store which is compatible with WordPress database and CMS</li>
+              <li>Designed and implemented RESTful API for LINE Friends Online Store which is compatible with WordPress database and CMS</li>
               <li>Designed and implemented point and coupon system for Line Friends Online Store</li>
             </ul>
 
