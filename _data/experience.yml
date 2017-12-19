@@ -4,52 +4,40 @@
 - company: Podotree.inc
   position: Software Engineer
   duration: Jun, 2016 &mdash; Present
-  summary: |
-  Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
 
 # Freelancer
 - company: Freelancer
   position: Full-stack Web Developer
   duration:  Mar, 2016 &mdash; May, 2016
   summary: |
-
-           - Developed responsive web-service for income tax return
-           - Developed and Designed admin site for company workers
-           - Organized service infrastructure including release management
-
-           • Developed responsive web-service for income tax return
-           • Developed and Designed admin site for company workers
-           • Organized service infrastructure including release management
-
-           <ul>
-             <li>• Developed responsive web-service for income tax return</li>
-             <li>• Developed and Designed admin site for company workers</li>
-             <li>• Organized service infrastructure including release management</li>
-           </ul>
+            - Developed responsive web-service for income tax return
+            - Developed and Designed admin site for company workers
+            - Organized service infrastructure including release management
 
 # Line Plus
 - company: Line Plus Corp
   position: Software Engineer
   duration:  Sep, 2015 &mdash; Jan, 2016
   summary: |
-    <ul>
-      <li>Enabled payment on Line Friends Online Store from PC and Mobile web browsers using INICIS payment gateway API</li>
-      <li>Designed and implemented RESTful API for Line Friends Online Store which is compatible with WordPress database and CMS</li>
-      <li>Designed and implemented point and coupon system for Line Friends Online Store</li>
-    </ul>
+            <ul>
+              <li>Enabled payment on Line Friends Online Store from PC and Mobile web browsers using INICIS payment gateway API</li>
+              <li>Designed and implemented RESTful API for Line Friends Online Store which is compatible with WordPress database and CMS</li>
+              <li>Designed and implemented point and coupon system for Line Friends Online Store</li>
+            </ul>
 
 # Zum Internet
 - company: Zum Internet
   position: Data Platform Developer
   duration: Dec, 2013 &mdash; Aug, 2015
   summary: |
-    My job was a data collector and make them clean and meaningful for search engine in portal web service named ZUM.
-    <ul class="resume-item-list">
-      <li>Maintained over 300 XML based parsers for News, Blog search components</li>
-      <li>Monitored and Maintained crawler servers for stable web data collection to use them for portal service search components</li>
-      <li>Created web service to facilitate custom web page parser generation and management (it had shortened parser production time to 1/5 average)</li>
-      <li>Produced approximately 400 news and blog parsers for search engine</li><li>Developed crawler for blog search component</li>
-    </ul>
+            My job was a data collector and make them clean and meaningful for search engine in portal web service named ZUM.
+            <ul class="resume-item-list">
+              <li>Maintained over 300 XML based parsers for News, Blog search components</li>
+              <li>Monitored and Maintained crawler servers for stable web data collection to use them for portal service search components</li>
+              <li>Created web service to facilitate custom web page parser generation and management (it had shortened parser production time to 1/5 average)</li>
+              <li>Produced approximately 400 news and blog parsers for search engine</li><li>Developed crawler for blog search component</li>
+            </ul>
 
 
 
