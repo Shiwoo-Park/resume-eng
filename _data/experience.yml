@@ -4,7 +4,13 @@
 - company: Podotree.inc
   position: Software Engineer
   duration: Jun, 2016 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+  summary: |
+            <ul>
+              <li>Designed Kakao Page Advertisement Suppy Side Platform</li>
+              <li>Upgraded Kakao Page event page generator for various usage (marketing, advertisment ... etc)</li>
+              <li>Created Kakao Page Reservation platform to help service management automation</li>
+              <li>Maintained Kakao Page CMS while communicating different kinds of company departments such as marketing, planning, service operation and business</li>
+            <ul>
 
 # Freelancer
 - company: Freelancer
@@ -12,9 +18,9 @@
   duration:  Mar, 2016 &mdash; May, 2016
   summary: |
             <ul>
-              <li>• Developed responsive web-service for income tax return</li>
-              <li>• Developed and Designed admin site for company workers</li>
-              <li>• Organized service infrastructure including release management</li>
+              <li>Developed responsive web-service for income tax return</li>
+              <li>Developed and Designed admin site for company workers</li>
+              <li>Organized service infrastructure including release management</li>
             </ul>
 
 # Line Plus
