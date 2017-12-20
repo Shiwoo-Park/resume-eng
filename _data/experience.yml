@@ -5,11 +5,15 @@
   position: Software Engineer
   duration: Jun, 2016 &mdash; Present
   summary: |
+            Managed Kakao Page Admin Site project as a developer and service planner while communicating with different kinds of company departments, such as marketing, planning, service operation and business
             <ul>
-              <li>Designed Kakao Page Advertisement Suppy Side Platform</li>
-              <li>Upgraded Kakao Page event page generator for various usage (marketing, advertisment ... etc)</li>
-              <li>Created Kakao Page Reservation platform to help service management automation</li>
-              <li>Maintained Kakao Page CMS while communicating different kinds of company departments such as marketing, planning, service operation and business</li>
+              <li>Contributed to sales grouth by creation of Kakao Page Advertisement Suppy Side Platform</li>
+              <li>Upgraded Kakao Page event page generator for various usage (marketing, advertisment, etc)</li>
+              <li>Helped service operators by offering semi-automatic service control system (= job reservation platform)</li>
+              <li>Changed technical stack of admin site from Java & Spring to Python & Django while preserving single domain site on service</li>
+              <li>Added customer service service operation tool into admin site and organized purchase and refund product logic</li>
+              <li>Participated in Kakao Page VOD service project as an operation tool developer</li>
+              <li></li>
             <ul>
 
 # Freelancer
