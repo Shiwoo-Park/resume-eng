@@ -13,7 +13,7 @@
               <li>Changed technical stack of admin site from Java & Spring to Python & Django while preserving single domain site on service</li>
               <li>Added customer service service operation tool into admin site and organized purchase and refund product logic</li>
               <li>Participated in Kakao Page VOD service project as an operation tool developer</li>
-              <li></li>
+              <li>Automated deployment process by web application with shell scripts</li>
             <ul>
 
 # Freelancer
