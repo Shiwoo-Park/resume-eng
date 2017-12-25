@@ -10,10 +10,10 @@
               <li>Contributed to sales grouth by creation of Kakao Page Advertisement Suppy Side Platform</li>
               <li>Upgraded Kakao Page event page generator for various usage (marketing, advertisment, etc)</li>
               <li>Helped service operators by offering semi-automatic service control system (= job reservation platform)</li>
-              <li>Changed technical stack of admin site from Java & Spring to Python & Django while preserving single domain site on service</li>
-              <li>Added customer service service operation tool into admin site and organized purchase and refund product logic</li>
+              <li>Changed technical stack of admin site from Java & Spring to Python & Django while preserving live serevice</li>
+              <li>Added customer service management tool into admin site and organized business logic of purchase and refund product</li>
               <li>Participated in Kakao Page VOD service project as an operation tool developer</li>
-              <li>Automated deployment process by web application with shell scripts</li>
+              <li>Automated project deployment process</li>
             <ul>
 
 # Freelancer
