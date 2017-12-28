@@ -7,12 +7,10 @@
   # url: "#"
   description: |
                 <ul>
-                  <li>Developed responsive web-service for income tax return</li>
-                  <li>Developed and Designed admin site for company workers</li>
                   <li>Organized service infrastructure including release management</li>
-                  <li>Developed two web services which are admin site and client page alone</li>
-                  <li>Used AWS EC2 and EBS as a server</li>
-                  <li>Technical stack: jquery, bootstrap, jade, sass, expressjs, npm</li>
+                  <li>Developed client web site for income tax return</li>
+                  <li>Developed and Designed admin web site for company workers</li>
+                  <li>Technical stack: AWS, MySQL, jquery, bootstrap, jade, sass, expressjs, npm</li>
                 </ul>
 
 
