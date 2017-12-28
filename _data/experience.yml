@@ -23,9 +23,9 @@
   summary: |
             Web server developer of LINE friends online store
             <ul>
-              <li>Enabled payment on Line Friends Online Store from PC and Mobile web browsers using INICIS payment gateway API</li>
+              <li>Enabled payment on PC and Mobile web browsers without PG offered library</li>
               <li>Designed and implemented RESTful API for LINE Friends Online Store which is compatible with WordPress database and CMS</li>
-              <li>Designed and implemented point and coupon system for Line Friends Online Store</li>
+              <li>Learned how to find out "what to do" and make progress alone</li>
             </ul>
 
 # Zum Internet
