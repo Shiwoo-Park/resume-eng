@@ -1,13 +1,13 @@
 # Skills
 
-# Web Development
-- skill: Web Development
-  description: Full-stack, API Design & Develop, Express.js, Django, Angular.js, Reactive UI
+- skill: Programming Language
+  description: Python, Javascript(ES6), node, Java
 
-# Server Management
+- skill: Technical Stack & Frameworks
+  description: Django, Django REST framework, Vue.js, Express.js, TypeScript, jQuery
+
 - skill: Server Programming
-  description: Shell Script, Relational DB, Redis
+  description: Shell Script, MySQL, Redis
 
-# Code Management
 - skill: Project Management
   description: JIRA, Confluence, Jenkins, Github

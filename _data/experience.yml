@@ -1,7 +1,7 @@
 # Jobs
 
 # Podotree
-- company: Podotree.inc
+- company: Kakao Page Corp
   position: Software Engineer
   duration: Jun, 2016 &mdash; Present
   summary: |
@@ -9,11 +9,11 @@
             <ul>
               <li>Contributed to sales grouth by creation of Kakao Page Advertisement Suppy Side Platform</li>
               <li>Upgraded Kakao Page event page generator for various usage (marketing, advertisment, etc)</li>
-              <li>Helped service operators by offering semi-automatic service control system (= job reservation platform)</li>
-              <li>Changed technical stack of admin site from Java & Spring to Python & Django while preserving live serevice</li>
-              <li>Added customer service management tool into admin site and organized business logic of purchase and refund product</li>
+              <li>Created Kakao Page Reservation platform to help service management automation</li>
+              <li>Maintained Kakao Page CMS while communicating different kinds of company departments such as marketing, planning, customer center, service operation and business</li>
+              <li>Created and managed kakaopage customer service administration tool including customer refund which is tightly related to external billing platform</li>
               <li>Participated in Kakao Page VOD service project as an operation tool developer</li>
-              <li>Automated project deployment process</li>
+              <li>Improved admin site UI & UX by introducing front-end framework (Vue+DRF) while handling two legacy framework codes (java spring, pure Django)</li>
             <ul>
 
 # Line Plus
