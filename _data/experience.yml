@@ -1,47 +1,46 @@
 # Jobs
 
-# Podotree
-- company: Podotree.inc
-  position: Software Engineer
+# Kakaopage
+- company: Kakaopage.corp
+  position: Software Engineer - Admin-Site Development Team
   duration: Jun, 2016 &mdash; Present
   summary: |
-            Managed Kakao Page Admin Site project as a developer and service planner while communicating with different kinds of company departments, such as marketing, planning, service operation and business
-            <ul>
-              <li>Contributed to sales grouth by creation of Kakao Page Advertisement Suppy Side Platform</li>
-              <li>Upgraded Kakao Page event page generator for various usage (marketing, advertisment, etc)</li>
-              <li>Helped service operators by offering semi-automatic service control system (= job reservation platform)</li>
-              <li>Changed technical stack of admin site from Java & Spring to Python & Django while preserving live serevice</li>
-              <li>Added customer service management tool into admin site and organized business logic of purchase and refund product</li>
-              <li>Participated in Kakao Page VOD service project as an operation tool developer</li>
-              <li>Automated project deployment process</li>
-            <ul>
+    Kakaopage is mobile application multi-content platform which serves comic, novel, book and video contents which has more than 10 million user.<br/>
+    I developed KakaoPage Admin Site while communicating with different kinds of departments, such as marketing, planning, service operation and business
+    <ul>
+      <li>Contributed to sales grouth by creation of Kakao Page Advertisement Suppy Side Platform</li>
+      <li>Upgraded Kakao Page event page generator for various usage (marketing, advertisment, etc)</li>
+      <li>Helped service operators by offering semi-automatic service control system (= job reservation platform)</li>
+      <li>Changed technical stack of admin site from Java & Spring to Python & Django & Vue.js while preserving live serevice</li>
+      <li>Added customer service management tool into admin site and organized business logic of purchase and refund ticket</li>
+      <li>Participated in Kakao Page VOD service project as an operation tool developer</li>
+      <li>Developed and maintained many different kinds of service operation tool : app screen|event|advertisement|mission|product|push notification management tools, customer service tools and etc</li>
+    <ul>
 
 # Line Plus
 - company: Line Plus Corp
   position: Software Engineer
-  duration:  Sep, 2015 &mdash; Jan, 2016
+  duration: Sep, 2015 &mdash; Jan, 2016
   summary: |
-            Web server developer of LINE friends online store
-            <ul>
-              <li>Enabled payment on PC and Mobile web browsers without PG offered library</li>
-              <li>Designed and implemented RESTful API for LINE Friends Online Store which is compatible with WordPress database and CMS</li>
-              <li>Learned how to find out "what to do" and make progress alone</li>
-            </ul>
+    Web server developer of LINE friends online store
+    <ul>
+      <li>Enabled payment on PC and Mobile web browsers without PG offered library</li>
+      <li>Designed and implemented RESTful API for LINE Friends Online Store which is compatible with WordPress database and CMS</li>
+      <li>Learned how to find out "what to do" and make progress alone</li>
+    </ul>
 
 # Zum Internet
 - company: Zum Internet
   position: Data Platform Developer
   duration: Dec, 2013 &mdash; Aug, 2015
   summary: |
-            My job was a collecting data and make them clean and meaningful for search engine in portal web service named ZUM.
-            <ul class="resume-item-list">
-              <li>Maintained over 300 XML based parsers for News, Blog search components</li>
-              <li>Monitored and Maintained crawler servers for stable web data collection to use them for portal service search components</li>
-              <li>Created web service to facilitate custom web page parser generation and management (it had shortened parser production time to 1/5 average)</li>
-              <li>Produced approximately 400 news and blog parsers for search engine</li><li>Developed crawler for blog search component</li>
-            </ul>
-
-
+    My job was a collecting data and make them clean and meaningful for search engine in portal web service named ZUM.
+    <ul class="resume-item-list">
+      <li>Maintained over 300 XML based parsers for News, Blog search components</li>
+      <li>Monitored and Maintained crawler servers for stable web data collection to use them for portal service search components</li>
+      <li>Created web service to facilitate custom web page parser generation and management (it had shortened parser production time to 1/5 average)</li>
+      <li>Produced approximately 400 news and blog parsers for search engine</li><li>Developed crawler for blog search component</li>
+    </ul>
 
 # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
 # <ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>

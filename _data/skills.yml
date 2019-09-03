@@ -2,11 +2,11 @@
 
 # Web Development
 - skill: Web Development
-  description: Full-stack, API Design & Develop, Express.js, Django, Angular.js, Reactive UI
+  description: Full-stack, API Design & Develop, Express.js, Django, Angular.js, Reactive UI, Vue.js
 
 # Server Management
 - skill: Server Programming
-  description: Shell Script, Relational DB, Redis
+  description: Shell Script, Relational DB, Redis, Elastic Stack
 
 # Code Management
 - skill: Project Management
