@@ -1,20 +1,19 @@
 # Jobs
 
 # Kakaopage
-- company: Kakaopage.corp
-  position: Software Engineer - Admin-Site Development Team
+- company: Kakao Page Corp
+  position: Software Engineer
   duration: Jun, 2016 &mdash; Present
   summary: |
-    Kakaopage is mobile application multi-content platform which serves comic, novel, book and video contents which has more than 10 million user.<br/>
-    I developed KakaoPage Admin Site while communicating with different kinds of departments, such as marketing, planning, service operation and business
+    Managed Kakao Page Admin Site project as a developer and service planner while communicating with different kinds of company departments, such as marketing, planning, service operation and business
     <ul>
       <li>Contributed to sales grouth by creation of Kakao Page Advertisement Suppy Side Platform</li>
       <li>Upgraded Kakao Page event page generator for various usage (marketing, advertisment, etc)</li>
-      <li>Helped service operators by offering semi-automatic service control system (= job reservation platform)</li>
-      <li>Changed technical stack of admin site from Java & Spring to Python & Django & Vue.js while preserving live serevice</li>
-      <li>Added customer service management tool into admin site and organized business logic of purchase and refund ticket</li>
+      <li>Created Kakao Page Reservation platform to help service management automation</li>
+      <li>Maintained Kakao Page CMS while communicating different kinds of company departments such as marketing, planning, customer center, service operation and business</li>
+      <li>Created and managed kakaopage customer service administration tool including customer refund which is tightly related to external billing platform</li>
       <li>Participated in Kakao Page VOD service project as an operation tool developer</li>
-      <li>Developed and maintained many different kinds of service operation tool : app screen|event|advertisement|mission|product|push notification management tools, customer service tools and etc</li>
+      <li>Improved admin site UI & UX by introducing front-end framework (Vue+DRF) while handling two legacy framework codes (java spring, pure Django)</li>
     <ul>
 
 # Line Plus
