@@ -14,6 +14,10 @@
       <li>Created and managed kakaopage customer service administration tool including customer refund which is tightly related to external billing platform</li>
       <li>Participated in Kakao Page VOD service project as an operation tool developer</li>
       <li>Improved admin site UI & UX by introducing front-end framework (Vue+DRF) while handling two legacy framework codes (java spring, pure Django)</li>
+      <li>Maintained bulk app push messaging system for millions of users (Celery, Redis)</li>
+      <li>Designed and implemented target file management system which can be generically used</li>
+      <li>Facilitated project deployment by creating automated deploy routine (Ansible, Jenkins)</li>
+      <li>Increased code quality by introducing total unit testing tool (pytest)</li>
     <ul>
 
 # Line Plus

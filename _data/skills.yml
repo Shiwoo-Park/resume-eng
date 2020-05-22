@@ -4,10 +4,10 @@
   description: Python, Javascript(ES6), node, Java
 
 - skill: Technical Stack & Frameworks
-  description: Django, Django REST framework, Vue.js, Express.js, TypeScript, jQuery
+  description: Django, Django REST framework, Vue.js, Express.js, TypeScript, jQuery, Spring, JPA
 
 - skill: Server Programming
-  description: Shell Script, Relational DB, Redis, Elastic Stack
+  description: Shell Script, Relational DB, Redis, Elastic Stack, Ansible
 
 - skill: Project Management
   description: JIRA, Confluence, Jenkins, Github
