@@ -6,13 +6,13 @@
   duration: Mar, 2016 &mdash; May, 2016
   # url: "#"
   description: |
-                My first full-stack web development experience as a freelancer. Worked alone.
-                <ul>
-                  <li>Organized service infrastructure</li>
-                  <li>Developed client web site for comprehensive income tax return</li>
-                  <li>Developed and Designed admin web site for company workers</li>
-                  <li>Technical stack: AWS, MySQL, jquery, bootstrap, jade, sass, expressjs, npm</li>
-                </ul>
+    My first full-stack web development experience as a freelancer. Worked alone.
+    <ul>
+      <li>Organized service infrastructure</li>
+      <li>Developed client web site for comprehensive income tax return</li>
+      <li>Developed and Designed admin web site for company workers</li>
+      <li>Technical stack: AWS, MySQL, jquery, bootstrap, jade, sass, expressjs, npm</li>
+    </ul>
 
 
 #Springfield Donut Eater's User Group
