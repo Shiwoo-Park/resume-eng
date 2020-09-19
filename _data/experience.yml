@@ -1,9 +1,14 @@
 # Jobs
 
-# Kakaopage
+- company: Sendbird.inc
+  position: Software Engineer
+  duration: Sep, 2020 &mdash; Present
+  summary: |
+    Backend developer
+
 - company: Kakao Page Corp
   position: Software Engineer
-  duration: Jun, 2016 &mdash; Present
+  duration: Jun, 2016 &mdash; Sep, 2020
   summary: |
     Managed Kakao Page Admin Site project as a developer and service planner while communicating with different kinds of company departments, such as marketing, planning, service operation and business
     <ul>
@@ -20,7 +25,6 @@
       <li>Increased code quality by introducing unit-test to the project (pytest)</li>
     <ul>
 
-# Line Plus
 - company: Line Plus Corp
   position: Software Engineer
   duration: Sep, 2015 &mdash; Jan, 2016
@@ -32,7 +36,6 @@
       <li>Learned how to find out "what to do" and make progress alone</li>
     </ul>
 
-# Zum Internet
 - company: Zum Internet
   position: Data Platform Developer
   duration: Dec, 2013 &mdash; Aug, 2015
