@@ -1,10 +1,21 @@
 # Jobs
 
-- company: Sendbird.inc
+- company: Birdview .inc
   position: Software Engineer
-  duration: Oct, 2020 &mdash; Present
+  duration: Aug, 2021 &mdash; Present
   summary: |
-    Backend developer
+    Backend Developer
+
+- company: Sendbird .inc
+  position: Software Engineer
+  duration: Oct, 2020 &mdash; July, 2021
+  summary: |
+    Maintained Dashboard Service Backend while handling other technical issues
+    <ul>
+      <li>Developed backend API for Dashboard (Django)</li>
+      <li>Maintained admin tool for service (React.js)</li>
+      <li>Handled technical requests from diverse department (Accounting, Solutions engineer, Customer service)</li>
+    </ul>
 
 - company: Kakao Page Corp
   position: Software Engineer
@@ -23,7 +34,7 @@
       <li>Designed and implemented target file management system which can be generically used</li>
       <li>Facilitated project deployment by creating automated deploy routine (Ansible, Jenkins)</li>
       <li>Increased code quality by introducing unit-test to the project (pytest)</li>
-    <ul>
+    </ul>
 
 - company: Line Plus Corp
   position: Software Engineer
