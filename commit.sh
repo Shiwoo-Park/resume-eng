@@ -1,4 +1,5 @@
 git pull
 git add -A
-git commit -m 'update resume'
+git status
+git commit -m 'updated resume'
 git push

@@ -12,8 +12,8 @@
   summary: |
     Maintained Dashboard Service Backend while handling other technical issues
     <ul>
-      <li>Developed backend API for Dashboard (Django)</li>
-      <li>Maintained admin tool for service (React.js)</li>
+      <li>Created backend APIs for Dashboard front-end (Django)</li>
+      <li>Maintained back office management web service (Django, React.js)</li>
       <li>Handled technical requests from diverse department (Accounting, Solutions engineer, Customer service)</li>
     </ul>
 
@@ -44,14 +44,14 @@
     <ul>
       <li>Enabled payment on PC and Mobile web browsers without PG offered library</li>
       <li>Designed and implemented RESTful API for LINE Friends Online Store which is compatible with WordPress database and CMS</li>
-      <li>Learned how to find out "what to do" and make progress alone</li>
+      <li>Learned how manage tasks autonomously</li>
     </ul>
 
 - company: Zum Internet
   position: Data Platform Developer
   duration: Dec, 2013 &mdash; Aug, 2015
   summary: |
-    My job was a collecting data and make them clean and meaningful for search engine in portal web service named ZUM.
+    My job was a collecting and processing data to make them meaningful for search engine.
     <ul class="resume-item-list">
       <li>Maintained over 300 XML based parsers for News, Blog search components</li>
       <li>Monitored and Maintained crawler servers for stable web data collection to use them for portal service search components</li>
