@@ -1,10 +1,16 @@
 # Jobs
 
 - company: Birdview .inc
-  position: Software Engineer
+  position: Backend Developer (Tech Lead)
   duration: Aug, 2021 &mdash; Present
   summary: |
-    Backend Developer
+    Created, improved, maintained service APIs for mobile app clients
+    <ul>
+      <li>Led technical communication and decision in squad</li>
+      <li>Introduced new social login(Kakao) for users</li>
+      <li>Restructured backend architecture or codes for several inefficient services</li>
+      <li>Kept porting legacy codes into newer project with refactoring, unittests and documentation</li>
+    </ul>
 
 - company: Sendbird .inc
   position: Software Engineer
