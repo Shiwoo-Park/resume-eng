@@ -1,10 +1,10 @@
 # Jobs
 
 - company: Birdview .inc
-  position: Backend Developer (Tech Lead)
+  position: Backend Developer (Product & Review Squad, Tech Lead)
   duration: Aug, 2021 &mdash; Present
   summary: |
-    Created, improved, maintained service APIs for mobile app clients
+    Design and develop backend API, manage & support team members, technically help squad to achieve the goal
     <ul>
       <li>Led technical communication and decision in squad</li>
       <li>Restructured backend architecture and codes for "Hwahae Award" service</li>
@@ -12,6 +12,20 @@
       <li>Reorganized business logic of processing user information life-cycle (for ISMS certificate)</li>
       <li>Introduced new JIRA workflow into team (especially to make better code-review culture)</li>
       <li>Kept porting legacy codes into newer project with refactoring, unittests and documentation</li>
+      <li>Technically designed and implemented brand new service with unprecedented product category (dietary supplement) into the typical cosmetics-based App</li>
+      <li>Handled most of technical issues (for maintenance & improvement) related to product and review domain</li>
+    </ul>
+
+- company: Zerobase Front-end School Teacher
+  position: Javascript Teacher
+  duration: May, 2022 &mdash; July, 2022
+  summary: |
+    Created online lecture of javascript core concepts summary
+    <ul>
+      <li>Total class hours: 5 hrs</li>
+      <li>Used self-designed curriculum and self-made material</li>
+      <li>The lecture was included in zerobase front-end school program in 2023</li>
+      <li>Created lecture while working at Birdview.inc simulatneoulsy</li>
     </ul>
 
 - company: Sendbird .inc
