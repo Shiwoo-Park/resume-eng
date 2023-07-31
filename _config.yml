@@ -43,7 +43,7 @@ resume_social_links:
   resume_facebook_url:          "https://www.facebook.com/woozin23"
   resume_linkedin_url:          "https://www.linkedin.com/in/shiwoopark"
   resume_instagram_url:         "https://www.instagram.com/silva23/"
-  resume_website_url:           "http://oniondev.egloos.com"
+  #resume_website_url:           "http://oniondev.egloos.com"
   resume_twitter_url:           "https://twitter.com/jcoffeemilk"
   #resume_dribbble_url:          "https://dribbble.com/jag"
 resume_print_social_links:      true
