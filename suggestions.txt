@@ -1,0 +1,31 @@
+Consistency in Tense:
+Ensure consistency in verb tense. For current roles, use the present tense ("Design and develop," "manage & support"), and for past roles, use past tense ("Maintained," "Created," "Contributed").
+동사 시제에 대한 통일성을 맞추자 (그냥 다 과거형이던지 다 현재형이던지)
+
+Quantify Achievements:
+Whenever possible, quantify your achievements to provide a clearer picture of your impact. For example, mentioning specific project sizes, the number of users affected, or the percentage of improvement can add depth.
+숫자적인 지표를 넣어서 더 쉽게 성과를 알아볼 수 있도록 하자.
+
+Highlight Achievements:
+Consider placing more emphasis on your key achievements in each role. For instance, if restructuring the backend architecture or introducing a new social login system were particularly impactful, make sure these stand out.
+성취한 것들중 임팩트 있는것을 더 잘보이도록 해보자.
+
+Organize Bullets:
+Organize your bullet points consistently. For example, start each bullet point with a strong action verb and try to maintain a consistent format for ease of reading.
+
+Separate Responsibilities and Achievements:
+Make a clear distinction between your responsibilities and your achievements in each role. Responsibilities can highlight what was expected of you, while achievements showcase what you accomplished.
+
+Use Keywords:
+If possible, include relevant keywords from the job descriptions in your bullet points. This can be particularly useful if you are tailoring your resume for specific positions.
+
+Include Technical Stack:
+Consider including the technologies or programming languages you used in each role. This gives recruiters a quick overview of your technical skills.
+
+Here's an example of how you might modify one of your bullet points to incorporate some of these suggestions:
+
+Original:
+"Handled most of the technical issues (for maintenance & improvement) related to the product and review domain."
+
+Revised:
+"Resolved critical technical issues related to product and review domains, leading to a 20% improvement in system stability and user experience."

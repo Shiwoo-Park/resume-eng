@@ -4,17 +4,23 @@
   position: Backend Developer (Product & Review Squad, Tech Lead)
   duration: Aug, 2021 &mdash; Present
   summary: |
-    Design and develop backend API, manage & support team members, technically help squad to achieve the goal
+    Responsibilities
     <ul>
-      <li>Led technical communication and decision in squad</li>
-      <li>Handled most of technical issues (for maintenance & improvement) related to product and review domain</li>
+      <li>Designed and developed backend software</li>
+      <li>Verifyied the technical risks of the project</li>
+      <li>Handled the creation, division, allocation, and schedule estimation of tasks</li>
+      <li>Led a small team of two members</li>
+      <li>Participated hiring process for new & experienced posotions as an interviewer</li>
+    </ul>
+
+    Achievements
+    <ul>
       <li>Restructured backend architecture and codes for "Hwahae Award" service</li>
       <li>Introduced new social login (Kakao) for users</li>
       <li>Reorganized business logic of processing user information life-cycle (for ISMS certificate)</li>
       <li>Introduced new JIRA workflow into team (especially to make better code-review culture)</li>
       <li>Kept porting legacy codes into newer project with refactoring, unittests and documentation</li>
       <li>Added brand new type of product (dietary supplement) into into the typical cosmetics-based App</li>
-      <li>Participated hiring process for new & experienced posotions as an interviewer</li>
     </ul>
 
 - company: Zerobase Front-end School Teacher
