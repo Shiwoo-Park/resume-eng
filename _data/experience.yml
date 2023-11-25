@@ -6,21 +6,20 @@
   summary: |
     Responsibilities
     <ul>
-      <li>Designed and developed backend software</li>
-      <li>Verifyied the technical risks of the project</li>
-      <li>Handled the creation, division, allocation, and schedule estimation of tasks</li>
-      <li>Led a small team of two members</li>
-      <li>Participated hiring process for new & experienced posotions as an interviewer</li>
+      <li>Designed and developed back-end software</li>
+      <li>Verified the technical risks of the project</li>
+      <li>Led a small team consist of two members(Managing and tech leading)</li>
+      <li>Participated hiring process as an interviewer</li>
     </ul>
 
     Achievements
     <ul>
-      <li>Restructured backend architecture and codes for "Hwahae Award" service</li>
-      <li>Introduced new social login (Kakao) for users</li>
-      <li>Reorganized business logic of processing user information life-cycle (for ISMS certificate)</li>
-      <li>Introduced new JIRA workflow into team (especially to make better code-review culture)</li>
-      <li>Kept porting legacy codes into newer project with refactoring, unittests and documentation</li>
-      <li>Added brand new type of product (dietary supplement) into into the typical cosmetics-based App</li>
+      <li>Re-designed DB table architecture for "Hwahae Award" service</li>
+      <li>Introduced new third-party login (Kakao) for users</li>
+      <li>Organized business logic handling life-cycle of user data (for ISMS)</li>
+      <li>Applied new JIRA workflow into team for better code review process</li>
+      <li>Maintained and transfer logics in legacy project (JSP)</li>
+      <li>Launched brand new service (food, dietary supplement)</li>
     </ul>
 
 - company: Zerobase Front-end School Teacher
@@ -39,30 +38,34 @@
   position: Software Engineer
   duration: Oct, 2020 &mdash; July, 2021
   summary: |
-    Maintained Dashboard Service Backend while handling other technical issues
+    Developed back-end of client web dashboard for SaaS
     <ul>
-      <li>Created backend APIs for Dashboard front-end (Django)</li>
-      <li>Maintained back office management web service (Django, React.js)</li>
-      <li>Handled technical requests from diverse department (Accounting, Solutions engineer, Customer service)</li>
+      <li>Created back-end APIs (Django)</li>
+      <li>Maintained back-office software (Django, React.js)</li>
+      <li>Dealt with diverse requests from accounting, solutions engineer and customer service department</li>
     </ul>
 
 - company: Kakao Page Corp
-  position: Software Engineer
+  position: Software Engineer (Full-stack)
   duration: Jun, 2016 &mdash; Sep, 2020
   summary: |
-    Managed Kakao Page Admin Site project as a developer and service planner while communicating with different kinds of company departments, such as marketing, planning, service operation and business
+    Content-platform service (Kakao Page) admin web developer
+
+    Responsibilities
     <ul>
-      <li>Contributed to sales grouth by creation of Kakao Page Advertisement Suppy Side Platform</li>
-      <li>Upgraded Kakao Page event page generator for various usage (marketing, advertisment, etc)</li>
-      <li>Created Kakao Page Reservation platform to help service management automation</li>
-      <li>Maintained Kakao Page CMS while communicating different kinds of company departments such as marketing, planning, customer center, service operation and business</li>
-      <li>Created and managed kakaopage customer service administration tool including customer refund which is tightly related to external billing platform</li>
-      <li>Participated in Kakao Page VOD service project as an operation tool developer</li>
-      <li>Improved admin site UI & UX by introducing front-end framework (Vue+DRF) while handling two legacy framework codes (java spring, pure Django)</li>
-      <li>Maintained bulk app push messaging system for millions of users (Celery, Redis)</li>
-      <li>Designed and implemented target file management system which can be generically used</li>
-      <li>Facilitated project deployment by creating automated deploy routine (Ansible, Jenkins)</li>
-      <li>Increased code quality by introducing unit-test to the project (pytest)</li>
+      <li>Developed and maintained diverse admins features for different department (customer service, business, marketing, advertisement)</li>
+      <li>Developed and maintained mobile notification system</li>
+      <li>Handled technical issues and requests related to the admin product</li>
+    </ul>
+
+    Achievements
+    <ul>
+      <li>Contributed to sales growth by creation of advertisement supply-side platform</li>
+      <li>Designed and implemented a reservation functionality for operational tasks, contributing to enhanced operational efficiency for administrators</li>
+      <li>Developed a quest platform to encourage user participation within the app with reward</li>
+      <li>Transitioned the project's technology stack from Django+jQuery to DRF+Vue, enhancing front-end dynamic event capabilities</li>
+      <li>Implemented a notification speed control feature for the alert system, optimizing the pace of alert transmissions</li>
+      <li>Implemented CI/CD pipeline (Ansible, Jenkins)</li>
     </ul>
 
 - company: Line Plus Corp
