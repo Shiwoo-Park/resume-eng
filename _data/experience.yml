@@ -14,24 +14,29 @@
 
     Achievements
     <ul>
-      <li>Re-designed DB table architecture for "Hwahae Award" service</li>
-      <li>Introduced new third-party login (Kakao) for users</li>
-      <li>Organized business logic handling life-cycle of user data (for ISMS)</li>
+      <li>Streamlined the DB table architecture for the 'Hwahae Award' service by eliminating redundancy and enhancing code maintainability</li>
+      <li>Designed and developed a new backend architecture for introducing a novel product category (food, dietary supplement), ensuring seamless compatibility with existing systems</li>
+      <li>Established a system for managing the business logic governing the life-cycle of user data, specifically focusing on Information Security Management System (ISMS)</li>
+      <li>Implemented a new third-party(Kakao) login functionality for users</li>
       <li>Applied new JIRA workflow into team for better code review process</li>
       <li>Maintained and transfer logics in legacy project (JSP)</li>
-      <li>Launched brand new service (food, dietary supplement)</li>
     </ul>
+
+    Tech Stack: Python, Java, Django, DRF, JSP, MySQL
 
 - company: Sendbird .inc
   position: Software Engineer
   duration: Oct, 2020 &mdash; July, 2021
   summary: |
     Developed back-end of client web dashboard for SaaS
+
     <ul>
       <li>Created back-end APIs (Django)</li>
       <li>Maintained back-office software (Django, React.js)</li>
       <li>Dealt with diverse requests from accounting, solutions engineer and customer service department</li>
     </ul>
+
+    Tech Stack: Python, Javascript, Django, DRF, React.js, MySQL
 
 - company: Kakao Page Corp
   position: Software Engineer (Full-stack)
@@ -56,28 +61,36 @@
       <li>Implemented CI/CD pipeline (Ansible, Jenkins)</li>
     </ul>
 
+    Tech Stack: Django, DRF, Celery, Spring Boot, MySQL, ES, Redis, JQuery, Vue.js
+
 - company: Line Plus Corp
   position: Software Engineer
   duration: Sep, 2015 &mdash; Jan, 2016
   summary: |
     Web server developer of LINE friends online store
+
     <ul>
       <li>Enabled payment on PC and Mobile web browsers without PG offered library</li>
       <li>Designed and implemented RESTful API for LINE Friends Online Store which is compatible with WordPress database and CMS</li>
       <li>Learned how manage tasks autonomously</li>
     </ul>
 
+    Tech Stack: Node.js, MySQL, Word Press
+
 - company: Zum Internet
   position: Data Platform Developer
   duration: Dec, 2013 &mdash; Aug, 2015
   summary: |
     My job was a collecting and processing data to make them meaningful for search engine.
-    <ul class="resume-item-list">
+
+    <ul>
       <li>Maintained over 300 XML based parsers for News, Blog search components</li>
       <li>Monitored and Maintained crawler servers for stable web data collection to use them for portal service search components</li>
       <li>Created web service to facilitate custom web page parser generation and management (it had shortened parser production time to 1/5 average)</li>
       <li>Produced approximately 400 news and blog parsers for search engine</li><li>Developed crawler for blog search component</li>
     </ul>
+
+    Tech Stack: Python, Java, Hadoop
 
 # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
 # <ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
