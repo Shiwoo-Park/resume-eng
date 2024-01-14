@@ -1,15 +1,15 @@
 # Jobs
 
 - company: Birdview .inc
-  position: Backend Developer (Product & Review Squad, Tech Lead)
+  position: Backend Developer (Tech Lead)
   duration: Aug, 2021 &mdash; Oct, 2023
   summary: |
     Responsibilities
     <ul>
-      <li>Designed and developed back-end software</li>
+      <li>Designed and developed back-end softwares</li>
       <li>Verified the technical risks of the project</li>
-      <li>Led a small team consist of two members(Managing and tech leading)</li>
-      <li>Participated hiring process as an interviewer</li>
+      <li>Led a small team of two members, handling both managerial responsibilities and technical leadership</li>
+      <li>Served as an interviewer in the hiring process</li>
     </ul>
 
     Achievements
@@ -31,9 +31,9 @@
     Developed back-end of client web dashboard for SaaS
 
     <ul>
-      <li>Created back-end APIs (Django)</li>
-      <li>Maintained back-office software (Django, React.js)</li>
-      <li>Dealt with diverse requests from accounting, solutions engineer and customer service department</li>
+      <li>Developed back-end APIs</li>
+      <li>Maintained back-office software</li>
+      <li>Managed a variety of requests from the accounting, solutions engineering, and customer service departments</li>
     </ul>
 
     Tech Stack: Python, Javascript, Django, DRF, React.js, MySQL
@@ -44,7 +44,7 @@
   summary: |
     Responsibilities
     <ul>
-      <li>Developed and maintained diverse admins for different department (customer service, business, marketing, advertisement)</li>
+      <li>Developed and maintained admins for diverse department (customer service, business, marketing, advertisement)</li>
       <li>Developed and maintained mobile push notification system</li>
       <li>Handled technical issues and requests related to the admin</li>
     </ul>
@@ -52,10 +52,10 @@
     Achievements
     <ul>
       <li>Contributed to sales growth by creation of advertisement supply-side platform</li>
-      <li>Designed and implemented a reservation functionality for operational tasks, contributing to enhanced operational efficiency for administrators</li>
-      <li>Developed a quest platform to encourage user participation within the app with reward</li>
-      <li>Transitioned the project's technology stack from Django+jQuery to DRF+Vue, enhancing front-end dynamic event capabilities</li>
-      <li>Implemented a notification speed control feature for the alert system, optimizing the pace of alert transmissions</li>
+      <li>Designed and implemented a reservation system for operational tasks, enhancing convenience for administrators</li>
+      <li>Created a quest platform with versatile reward options to meet various marketing requirements and encourage user engagement within the app</li>
+      <li>Modernized the project's technology stack, transitioning from Django+jQuery to DRF+Vue.js, thereby enhancing the front-end's dynamic rendering capabilities</li>
+      <li>Introduced a notification speed control feature to the alert system, mitigating API server load during mass push notification deliveries</li>
       <li>Implemented CI/CD pipeline (Ansible, Jenkins)</li>
     </ul>
 
