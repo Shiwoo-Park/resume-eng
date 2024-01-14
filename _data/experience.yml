@@ -68,9 +68,8 @@
     Web server developer of LINE friends online store
 
     <ul>
-      <li>Enabled payment on PC and Mobile web browsers without PG offered library</li>
-      <li>Designed and implemented RESTful API for LINE Friends Online Store which is compatible with WordPress database and CMS</li>
-      <li>Learned how manage tasks autonomously</li>
+      <li>Implemented payment functionality for both PC and mobile web browsers without relying on external Payment Gateway APIs, as they were not available</li>
+      <li>Developed the backend API for the LINE Friends Online Store, ensuring compatibility with the WordPress database structure and CMS administration</li>
     </ul>
 
     Tech Stack: Node.js, MySQL, Word Press
