@@ -19,7 +19,7 @@
       <li>Established a system for managing the business logic governing the life-cycle of user data, specifically focusing on Information Security Management System (ISMS)</li>
       <li>Implemented a new third-party(Kakao) login functionality for users</li>
       <li>Applied new JIRA workflow into team for better code review process</li>
-      <li>Maintained and transfer logics in legacy project (JSP)</li>
+      <li>Executed the maintenance and migration of logics in a legacy project, as part of resolving technological debt</li>
     </ul>
 
     Tech Stack: Python, Java, Django, DRF, JSP, MySQL
