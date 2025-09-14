@@ -1,16 +1,22 @@
 # Skills
 
-- skill: Programming Language
-  description: Python, Javascript(ES6), node, Java
+- skill: Programming Languages
+  description: Python, Java, JavaScript(ES6, TypeScript)
 
-- skill: Technical Stack & Frameworks
-  description: Django, DRF, Celery, Vue.js, Express.js, TypeScript, Spring, JSP
+- skill: Backend
+  description: Django, DRF, Celery, Express.js, Spring, JSP
 
-- skill: Server Programming
-  description: Shell Script, Relational DB, Redis, Elastic Stack, Ansible
+- skill: Frontend
+  description: Vue.js, React.js, Next.js
 
-- skill: Project Management
-  description: JIRA, Confluence, Jenkins, Github
+- skill: Databases
+  description: MySQL, PostgreSQL, Redis, Elasticsearch
 
-- skill: ETC
-  description: Teaching, Technical leadership, Interviewing techniques
+- skill: DevOps & Infra
+  description: AWS (EC2, S3, ECS, RDS, CloudWatch), Terraform, Ansible, Bash
+
+- skill: Tools
+  description: Git, Github / Gitlab, Jenkins, Jira, Confluence
+
+- skill: Additional
+  description: Technical Leadership; Mentoring; Instructor (Online Course Production); Team Interviewing & Hiring Process

@@ -11,12 +11,14 @@ sass:
 # Resume settings
 resume_avatar: "true"
 resume_name: "Shiwoo Park (Silva)"
-resume_title: "Software Engineer"
+# resume_title: "Software Engineer"
+resume_title: "Full-stack Software Engineer (mainly Backend)"
 resume_contact_email: "woozin23@gmail.com"
 resume_contact_telephone: ""
 resume_contact_address: ""
 resume_header_contact_info: "woozin23@gmail.com"
-resume_header_intro: "Specializing in Python and Django, I've primarily held back-end positions, with experience in full-stack development and team leadership. While I view technology as a tool for service, I emphasize the importance of maintaining product in good quality.<br/><br/>I am dedicated to crafting high-quality, impactful solutions for users. In ambiguous situations, I proactively assist and, when faced with challenges, ensure collaborative decision-making. I believe documentation and testing is essential for feature development.<br/><br/>Actively addressing potential issues, I seek fundamental solutions through honest, horizontal communication. Currently interested in environment, finance, or AI businesses, I am also keen on positions such as Back-end Developer, DevOps Engineer, or leading Python-based back-end teams. Eager to learn and embrace new technologies."
+# resume_header_intro: "Specializing in Python and Django, I've primarily held back-end positions, with experience in full-stack development and team leadership. While I view technology as a tool for service, I emphasize the importance of maintaining product in good quality.<br/><br/>I am dedicated to crafting high-quality, impactful solutions for users. In ambiguous situations, I proactively assist and, when faced with challenges, ensure collaborative decision-making. I believe documentation and testing is essential for feature development.<br/><br/>Actively addressing potential issues, I seek fundamental solutions through honest, horizontal communication. Currently interested in environment, finance, or AI businesses, I am also keen on positions such as Back-end Developer, DevOps Engineer, or leading Python-based back-end teams. Eager to learn and embrace new technologies."
+resume_header_intro: "Specializing in Python and Django, I have over a decade of back-end experience with additional full-stack and leadership roles. I see technology as a tool to deliver real user value, focusing on product quality and long-term maintainability.<br/><br/>I emphasize documentation, testing, and collaborative decision-making, and I actively seek fundamental solutions to challenges."
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

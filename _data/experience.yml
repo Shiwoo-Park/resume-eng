@@ -1,5 +1,28 @@
 # Jobs
 
+- company: Baropharm .inc
+  position: Full-stack Developer (mainly Backend)
+  duration: Aug, 2021 &mdash; Oct, 2023
+  summary: |
+    Responsibilities
+    <ul>
+      <li>Develop and maintain backend APIs and admin frontends for 6+ web/app services, centered on the pharmaceutical ordering platform BaroPharm</li>
+      <li>Lead system architecture design and quality-driven refactoring of the main API project (e.g., exception handler, logging system, file management structure)</li>
+      <li>Build and automate deployment pipelines for asynchronous task workers and web services using AWS ECS-based infrastructure</li>
+      <li>Design and implement diverse products, including live commerce, B2B pharmaceutical trading, user-action-based reward platforms, and community expert consultation services</li>
+    </ul>
+
+    Achievements
+    <ul>
+      <li>Automated deployment for complex service specifications and eliminated inefficiencies in legacy deployment routines → improved developer workflow and productivity (from 30 minutes → 3 minutes)</li>
+      <li>Upgraded major tech stack versions, introduced unit testing, revamped API spec pages, and implemented error monitoring → enhanced operational stability</li>
+      <li>Created and managed backend utility repositories (e.g., local storage Docker setup, Git utilities) → streamlined local development environment setup</li>
+      <li>Built and maintained shared components and utility code (including backend APIs) to accelerate internal admin web frontend development</li>
+      <li>Led adoption of ChatGPT within the development team, documented workflows, and shared prompt-specific project files → maximized overall team productivity</li>
+    </ul>
+
+    Tech Stack: Python, Django, DRF, Javascript, React.js, PostgresSQL, Terraform, AWS
+
 - company: Birdview .inc
   position: Backend Developer (Tech Lead)
   duration: Aug, 2021 &mdash; Oct, 2023
