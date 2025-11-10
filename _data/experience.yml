@@ -1,48 +1,48 @@
 # Jobs
 
 - company: Baropharm .inc
-  position: Full-stack Developer (mainly Backend)
-  duration: Aug, 2021 &mdash; Oct, 2023
+  position: Senior Backend Software Engineer
+  duration: Mar, 2024 &mdash; Present
   summary: |
     Responsibilities
     <ul>
-      <li>Develop and maintain backend APIs and admin frontends for 6+ web/app services, centered on the pharmaceutical ordering platform BaroPharm</li>
-      <li>Lead system architecture design and quality-driven refactoring of the main API project (e.g., exception handler, logging system, file management structure)</li>
-      <li>Build and automate deployment pipelines for asynchronous task workers and web services using AWS ECS-based infrastructure</li>
-      <li>Design and implement diverse products, including live commerce, B2B pharmaceutical trading, user-action-based reward platforms, and community expert consultation services</li>
+      <li>Develop and maintain backend APIs and admin frontends for 6+ web/app services centered on the pharmaceutical ordering platform BaroPharm</li>
+      <li>Propose and implement various processes and systems as a senior developer to improve team efficiency and productivity</li>
+      <li>Address development team inquiries and resolve technical issues during service operations</li>
+      <li>Handle DevOps tasks as needed, including new infrastructure setup and deployment automation</li>
     </ul>
 
     Achievements
     <ul>
-      <li>Automated deployment for complex service specifications and eliminated inefficiencies in legacy deployment routines → improved developer workflow and productivity (from 30 minutes → 3 minutes)</li>
-      <li>Upgraded major tech stack versions, introduced unit testing, revamped API spec pages, and implemented error monitoring → enhanced operational stability</li>
-      <li>Created and managed backend utility repositories (e.g., local storage Docker setup, Git utilities) → streamlined local development environment setup</li>
-      <li>Built and maintained shared components and utility code (including backend APIs) to accelerate internal admin web frontend development</li>
-      <li>Led adoption of ChatGPT within the development team, documented workflows, and shared prompt-specific project files → maximized overall team productivity</li>
+      <li>Automated deployment for ~20 crawler servers with varying specifications and purposes, reducing deployment time from 30 minutes to 3 minutes</li>
+      <li>Established foundational development infrastructure including major tech stack upgrades, unit testing introduction, API spec page redesign, and enhanced error monitoring</li>
+      <li>Designed and developed a real-time user-action-based reward system (mission platform) to rapidly address marketing team needs</li>
+      <li>Developed shared frontend components, reducing back-office development time significantly (approximately 3x productivity improvement with AI integration)</li>
+      <li>Participated in the full lifecycle of two new business ventures (B2B trading platform, pharmacist-to-expert consultation platform), handling 50% and 100% of backend work respectively</li>
     </ul>
 
-    Tech Stack: Python, Django, DRF, Javascript, React.js, PostgresSQL, Terraform, AWS
+    Tech Stack: Python, Django, DRF, FastAPI, Next.js, React.js, PostgreSQL, AWS, Terraform, Jenkins, ChatGPT, Cursor
 
 - company: Birdview .inc
-  position: Backend Developer (Tech Lead)
+  position: Backend Developer (Product Review Domain, Tech Lead)
   duration: Aug, 2021 &mdash; Oct, 2023
   summary: |
     Responsibilities
     <ul>
-      <li>Designed and developed back-end softwares</li>
-      <li>Verified the technical risks of the project</li>
-      <li>Led a small team of two members, handling both managerial responsibilities and technical leadership</li>
-      <li>Served as an interviewer in the hiring process</li>
+      <li>Developed and maintained backend services for product and review domain</li>
+      <li>Served as Tech Lead, providing technical guidance from project review through launch</li>
+      <li>Led a small backend team of two members, managing both team leadership and technical responsibilities</li>
+      <li>Conducted technical interviews for junior and experienced developer positions</li>
     </ul>
 
     Achievements
     <ul>
-      <li>Streamlined the DB table architecture for the 'Hwahae Award' service by eliminating redundancy and enhancing code maintainability</li>
-      <li>Designed and developed a new backend architecture for introducing a novel product category (food, dietary supplement), ensuring seamless compatibility with existing systems</li>
-      <li>Established a system for managing the business logic governing the life-cycle of user data, specifically focusing on Information Security Management System (ISMS)</li>
-      <li>Implemented a new third-party(Kakao) login functionality for users</li>
-      <li>Applied new JIRA workflow into team for better code review process</li>
-      <li>Executed the maintenance and migration of logics in a legacy project, as part of resolving technological debt</li>
+      <li>Improved JIRA workflow and implemented automation (Slack notifications) to enhance team code review efficiency</li>
+      <li>Refactored backend architecture for 'Hwahae Award' service by merging redundant database tables and adding service exposure control features</li>
+      <li>Implemented Kakao login integration, contributing to increased new subscribers for KakaoTalk channel</li>
+      <li>Established user information processing lifecycle system for dormant/withdrawn users to comply with ISMS requirements</li>
+      <li>Launched 'Inner Beauty' service: developed crawler data ingestion, user and admin APIs, and ensured compatibility with commerce and advertising services</li>
+      <li>Migrated and maintained JSP legacy code by analyzing old codebase and porting functionality to new APIs with proper documentation and testing</li>
     </ul>
 
     Tech Stack: Python, Java, Django, DRF, JSP, MySQL
@@ -51,12 +51,13 @@
   position: Software Engineer
   duration: Oct, 2020 &mdash; July, 2021
   summary: |
-    Developed back-end of client web dashboard for SaaS
+    Developed backend for client web dashboard SaaS platform
 
     <ul>
-      <li>Developed back-end APIs</li>
-      <li>Maintained back-office software</li>
-      <li>Managed a variety of requests from the accounting, solutions engineering, and customer service departments</li>
+      <li>Developed backend APIs for Sendbird user admin web dashboard using Django</li>
+      <li>Maintained back-office software built with React.js</li>
+      <li>Handled diverse requests from B2B customer management departments including Accounting, Solutions Engineering, and Customer Service</li>
+      <li>Worked in an English-speaking environment (approximately 50% of work conducted in English)</li>
     </ul>
 
     Tech Stack: Python, Javascript, Django, DRF, React.js, MySQL
@@ -67,47 +68,54 @@
   summary: |
     Responsibilities
     <ul>
-      <li>Developed and maintained admins for diverse department (customer service, business, marketing, advertisement)</li>
+      <li>Developed and maintained full-stack admin tools for various departments (customer service, business, marketing, advertising)</li>
       <li>Developed and maintained mobile push notification system</li>
-      <li>Handled technical issues and requests related to the admin</li>
+      <li>Addressed technical issues and service inquiries from various departments</li>
+      <li>Maintained continuity and provided onboarding support during frequent team member changes over 4.5 years</li>
     </ul>
 
     Achievements
     <ul>
-      <li>Contributed to sales growth by creation of advertisement supply-side platform</li>
-      <li>Designed and implemented a reservation system for operational tasks, enhancing convenience for administrators</li>
-      <li>Created a quest platform with versatile reward options to meet various marketing requirements and encourage user engagement within the app</li>
-      <li>Modernized the project's technology stack, transitioning from Django+jQuery to DRF+Vue.js, thereby enhancing the front-end's dynamic rendering capabilities</li>
-      <li>Introduced a notification speed control feature to the alert system, mitigating API server load during mass push notification deliveries</li>
-      <li>Implemented CI/CD pipeline (Ansible, Jenkins)</li>
+      <li>Designed and developed advertising Supply-Side Platform including reward ads, offerwall, and report generation, contributing to sales growth</li>
+      <li>Designed and implemented operational task scheduling system, improving administrator workflow efficiency</li>
+      <li>Developed quest platform with flexible reward options to drive user engagement and meet diverse marketing requirements</li>
+      <li>Developed target user management system utilized across various services for user targeting</li>
+      <li>Implemented DB sharding support by modifying DB routers and developing ORM utility functions</li>
+      <li>Led Python-Django project version upgrades for both language and framework</li>
+      <li>Developed push notification system capable of sending millions of notifications simultaneously with rate control features using Celery and Redis</li>
+      <li>Enhanced monitoring capabilities using Elasticsearch for request data and user comments</li>
+      <li>Concurrently worked on legacy project migration, progressing from 10% to 90% completion over 4.5 years</li>
+      <li>Implemented CI/CD pipeline using Ansible and Jenkins</li>
+      <li>Introduced unit testing using pytest</li>
     </ul>
 
-    Tech Stack: Django, DRF, Celery, Spring Boot, MySQL, ES, Redis, JQuery, Vue.js
+    Tech Stack: Django, DRF, Celery, Spring Boot, MySQL, Elasticsearch, Redis, JQuery, Vue.js
 
 - company: Line Plus Corp
   position: Software Engineer
   duration: Sep, 2015 &mdash; Jan, 2016
   summary: |
-    Web server developer of LINE friends online store
+    Backend developer for LINE Friends online store
 
     <ul>
-      <li>Implemented payment functionality for both PC and mobile web browsers without relying on external Payment Gateway APIs, as they were not available</li>
-      <li>Developed the backend API for the LINE Friends Online Store, ensuring compatibility with the WordPress database structure and CMS administration</li>
+      <li>Worked as part of a small team composed of members from an acquired startup</li>
+      <li>Developed custom payment module for PC and mobile web browsers, integrating with payment gateway services</li>
+      <li>Developed backend API for LINE Friends Online Store, ensuring compatibility with WordPress database structure and CMS administration</li>
     </ul>
 
-    Tech Stack: Node.js, MySQL, Word Press
+    Tech Stack: Node.js, MySQL, WordPress
 
 - company: Zum Internet
   position: Data Platform Developer
   duration: Dec, 2013 &mdash; Aug, 2015
   summary: |
-    My job was a collecting and processing data to make them meaningful for search engine.
+    Developed and maintained web data crawlers and parsers for search engine (zum.com)
 
     <ul>
-      <li>Maintained over 300 XML based parsers for News, Blog search components</li>
-      <li>Monitored and Maintained crawler servers for stable web data collection to use them for portal service search components</li>
-      <li>Created web service to facilitate custom web page parser generation and management (it had shortened parser production time to 1/5 average)</li>
-      <li>Produced approximately 400 news and blog parsers for search engine</li><li>Developed crawler for blog search component</li>
+      <li>Developed and maintained approximately 400 parsers for various websites</li>
+      <li>Created web service to facilitate custom web page parser generation and management, reducing parser production time to 1/5 of the average</li>
+      <li>Monitored and maintained crawler servers to ensure stable web data collection for portal service search components</li>
+      <li>Extracted 100 high-quality blogs from large-scale blog data</li>
     </ul>
 
     Tech Stack: Python, Java, Hadoop
